@@ -1,2 +1,2 @@
-# Online-School-Management-System-in-JSP-java
-Online School Management System in JSP java
+# fetakgomo-senior-portal
+fetakgomo senior portal in java/school management system
