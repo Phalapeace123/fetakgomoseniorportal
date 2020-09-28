@@ -1,0 +1,7 @@
+1.First create database "springschool". and import database using xampp mysql.
+
+2.open project in netbeans.
+
+3.go to fetakgomoseniorportal/Web pages/resource/dispatcher-servlet.xml
+
+4.find localhost and give your password
